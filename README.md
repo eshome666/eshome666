@@ -1,4 +1,5 @@
 ## Hi there 👋
+## New Beginner... Let's wait and see! 😄
 
 <!--
 **eshome666/eshome666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
